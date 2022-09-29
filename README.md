@@ -1,17 +1,17 @@
 # Minecraft Server Website
-
+<br>
 Hello everyone, i made almost one year ago a website for a minecraft server named SwiftPvP, they also changed their game server name 
 to TurtleMC and made two designs of a website that has been made from scratch.
-
-The website has the following pages:
-Home -> Shows news information.
-Trailer -> Shows a countdown and after that the countdown is done, it will show the trailer video.
-Leaderboard -> It shows the statistics of factions and players.
-Staff -> The staff members of the server.
-Vote -> a page to vote for the server on multiple platforms.
-
+<br>
+The website has the following pages:<br>
+Home -> Shows news information.<br>
+Trailer -> Shows a countdown and after that the countdown is done, it will show the trailer video.<br>
+Leaderboard -> It shows the statistics of factions and players.<br>
+Staff -> The staff members of the server.<br>
+Vote -> a page to vote for the server on multiple platforms.<br>
+<br>
 You have also the option to search for minecraft players and to register and claim your own profile.
-They are also profiles for factions.
+They are also profiles for factions.<br>
 
 # SwiftPvP designs:
 ## Home:
