@@ -41,6 +41,9 @@ They are also profiles for factions.<br>
 ![Proof ownership](https://i.gyazo.com/afb9b92da733d2a3cb838a0febd95d1e.png)
 
 # Other information
-This project isn't for sale, cause it's still been used. But i'm posting all these projects to use github as my portofolio. 
+This project is since 01-01-2024 for sale. But i'm posting all these projects to use github as my portofolio. 
+Contact details:
+Discord: djorr
+Email: contact@rubixdevelopment.nl
 
 I made this website in 2/3 weeks.
